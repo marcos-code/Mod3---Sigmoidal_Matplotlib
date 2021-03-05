@@ -1,1 +1,1 @@
-# Mod3---Sigmoidal_Matplotlib
+# Mod3-Sigmoidal_Matplotlib
